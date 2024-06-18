@@ -1,6 +1,5 @@
 [![MasterHead](banner.png)](https://Varshinireddy-1015.io)
-<h1 align="center">Hi 👋, I'm Varshini Vangeti</h1>
-<h3 align="center">Aspiring Full Stack Developer from India.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshinireddy-1015&label=Profile%20views&color=0e75b6&style=flat" alt="varshinireddy-1015" /> </p>
